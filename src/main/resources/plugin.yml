@@ -1,0 +1,8 @@
+name: ExampleMenu
+version: '0.1_alpha'
+main: dev.arctic.exampleMenu.ExampleMenu
+api-version: '1.21'
+commands:
+  menu:
+    description: Open the example menu
+    usage: /<command>
